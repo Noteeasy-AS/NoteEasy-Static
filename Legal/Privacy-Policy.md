@@ -43,6 +43,7 @@ For the purposes of this Privacy Policy:
 
 - __You__ means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
+These are the topics outlined in this Privacy Policy:
 
 - [Collecting and Processing](#collecting-and-processing)
 - [Use of Your Personal Data](#use-of-your-personal-data)
